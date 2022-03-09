@@ -1,0 +1,26 @@
+{
+  "name": "marionpluyaud_7_24022022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./css/style.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pluyaud-Marion/MarionPluyaud_7_24022022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pluyaud-Marion/MarionPluyaud_7_24022022/issues"
+  },
+  "homepage": "https://github.com/Pluyaud-Marion/MarionPluyaud_7_24022022#readme",
+  "dependencies": {
+    "sass": "^1.49.8"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0"
+  }
+}
